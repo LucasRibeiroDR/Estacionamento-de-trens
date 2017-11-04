@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1509737438 source:f:\faculdade\estrutura de dados\2017\estacionamentoferroviario\main.c
+	"EstacFer.h"
+	<stdio.h>
+	<stdlib.h>
+
+1509737438 f:\faculdade\estrutura de dados\2017\estacionamentoferroviario\estacfer.h
+
+1509737562 source:f:\faculdade\estrutura de dados\2017\estacionamentoferroviario\estacfer.c
+	<stdio.h>
+	<stdlib.h>
+	"EstacFer.h"
+
+1508797514 source:d:\faculdade\estrutura de dados\2017\estacionamentoferroviario\main.c
+	"EstacFer.h"
+	<stdio.h>
+	<stdlib.h>
+
+1508797496 d:\faculdade\estrutura de dados\2017\estacionamentoferroviario\estacfer.h
+
+1509564600 source:d:\faculdade\estrutura de dados\2017\estacionamentoferroviario\estacfer.c
+	<stdio.h>
+	<stdlib.h>
+	"EstacFer.h"
+

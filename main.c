@@ -11,6 +11,7 @@
 int main()
 {
     inicializar();
+    //engatarVagao();
     return 0;
 }
 
