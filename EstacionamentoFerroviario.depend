@@ -11,15 +11,17 @@
 	<stdlib.h>
 	"EstacFer.h"
 
-1509751838 source:d:\faculdade\estrutura de dados\2017\estacionamentoferroviario\main.c
+1511806998 source:d:\faculdade\estrutura de dados\2017\estacionamentoferroviario\main.c
 	"EstacFer.h"
 	<stdio.h>
 	<stdlib.h>
+	<locale.h>
 
-1509751838 d:\faculdade\estrutura de dados\2017\estacionamentoferroviario\estacfer.h
+1511805850 d:\faculdade\estrutura de dados\2017\estacionamentoferroviario\estacfer.h
 
-1510171686 source:d:\faculdade\estrutura de dados\2017\estacionamentoferroviario\estacfer.c
+1511805684 source:d:\faculdade\estrutura de dados\2017\estacionamentoferroviario\estacfer.c
 	<stdio.h>
 	<stdlib.h>
 	"EstacFer.h"
+	<locale.h>
 
